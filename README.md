@@ -1,8 +1,9 @@
-<h2>Hey there, I'm Michelle Chen 👋</h2>
+<h2>Hey, I'm Michelle Chen 👋</h2>
 
 **About Me**
-* Bachelor of Science degree in Computer Science at the University of British Columbia in Vancouver, Canada 🇨🇦<br />
-* 🤖 Previous a Software Engineer Intern at @ <a target="_blank"  href="https://binance.us/">Binance.US</a><br />
+
+* 👩🏻‍💻 Pursuing a Bachelor of Science degree in Computer Science at the University of British Columbia in Vancouver, Canada 🇨🇦<br />
+* 🤖 Previous a Software Engineer Intern at @<a target="_blank"  href="https://binance.us/">Binance.US</a><br />
 * 🚀 Love to explore new technologies and innovate<br />
 
 **Skills and Experience**
