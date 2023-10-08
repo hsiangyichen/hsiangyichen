@@ -2,13 +2,13 @@
 
 **About Me**
 
-* 👩🏻‍💻 Pursuing a Bachelor of Science in Computer Science at @<a target="_blank"  href="https://www.ubc.ca/">The University of British Columbia</a> in Vancouver, Canada 🇨🇦<br />
+* 👩🏻‍💻 Pursuing a Bachelor of Science in Computer Science @<a target="_blank"  href="https://www.ubc.ca/">The University of British Columbia</a> in Vancouver, Canada 🇨🇦<br />
 * 🤖 Previous a Software Engineer Intern at @<a target="_blank"  href="https://binance.us/">Binance.US</a><br />
 * 🚀 Love to explore new technologies and innovate<br />
 
 **Skills and Experience**
 
-* ⚛️ React
+* ⌨️ React.js, Vue.js, Next.js, Node.js
 * 💻 Java, Python, HTML, CSS, SCSS, JavaScript, TypeScript, MySQL
 
 **Personal Stuff**
