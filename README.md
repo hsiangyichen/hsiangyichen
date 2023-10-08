@@ -1,16 +1,25 @@
-### Hi there 👋
+<h2>Hey there, I'm Michelle Chen 👋</h2>
 
-<!--
-**hsiangyichen/hsiangyichen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**About Me**
+* Bachelor of Science degree in Computer Science at the University of British Columbia in Vancouver, Canada 🇨🇦<br />
+* 🤖 Previous a Software Engineer Intern at @ <a target="_blank"  href="https://binance.us/">Binance.US</a><br />
+* 🚀 Love to explore new technologies and innovate<br />
 
-Here are some ideas to get you started:
+**Skills and Experience**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* ⚛️ React
+* 💻 Java, Python, HTML, CSS, SCSS, JavaScript, TypeScript, MySQL
+
+**Personal Stuff**
+
+* 🎧 Music lover and a keen listener
+* 🏊‍♂️ Passionate about cardio and workouts for staying fit
+* ⛷️ Enthusiastic skier, always ready for the slopes!
+
+
+**Get in Touch**
+
+* 💬 Ask me about anything, I would love to get to know you and shoot me a dm to chat!
+* 📫 My Email: michellech2539@gmail.com
+* 💼 My LinkedIn: <a target="_blank"  href="https://www.linkedin.com/in/michellech2539/">michellech2539</a>
+* 📱 My Instagram: <a target="_blank"  href="https://www.instagram.com/hsiangyi__chen/">hsiangyi__chen</a>
