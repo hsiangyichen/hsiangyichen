@@ -15,7 +15,7 @@
 
 * 🎧 Music lover and a keen listener
 * 🏊‍♂️ Passionate about cardio and workouts for staying fit
-* ⛷️ Enthusiastic skier, always ready for the slopes!
+* ⛷️ Enthusiastic skier, ready for the skiing adventures!
 
 
 **Get in Touch**
