@@ -9,7 +9,7 @@
 **Skills and Experience**
 
 * 💻 React.js, Vue.js, Next.js, Node.js
-* ⌨️ Java, Python, HTML, CSS, SCSS, JavaScript, TypeScript, MySQL
+* ⌨️ Java, Python, HTML, CSS, SCSS, JavaScript, TypeScript, Oracle SQL
 
 **Personal Stuff**
 
