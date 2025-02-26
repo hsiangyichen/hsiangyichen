@@ -3,13 +3,13 @@
 **About Me**
 
 * 👩🏻‍💻 Graduated with a Bachelor of Science in Computer Science @<a target="_blank"  href="https://www.ubc.ca/">The University of British Columbia</a> in Vancouver, Canada 🇨🇦<br />
-* 🧠 Brushed up my industry skills with a Software Engineer certification @<a target="_blank" href="https://brainstation.io/">BrainStation</a><br />
+* 🧠 Brushed up my industry skills with a Software Engineering Dipolma @<a target="_blank" href="https://brainstation.io/">BrainStation</a><br />
 * 🤖 Previous a Software Engineer Intern at @<a target="_blank"  href="https://binance.us/">Binance.US</a><br />
 * 🚀 Love to explore new technologies and innovate<br />
 
 **Skills and Experience**
 
-* 💻 React.js, Vue.js, Next.js, Node.js, express, Vite
+* 💻 React.js, Vue.js, Next.js, Node.js, express, Vite, Knex.js
 * ⌨️ Java, Python, HTML, CSS, SASS, JavaScript, TypeScript, MySQL, MongoDB, Oracle SQL
 
 **Personal Stuff**
