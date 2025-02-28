@@ -7,11 +7,6 @@
 * 🤖 Previous a Software Engineer Intern at @<a target="_blank"  href="https://binance.us/">Binance.US</a><br />
 * 🚀 Love to explore new technologies and innovate<br />
 
-**Skills and Experience**
-
-* 💻 React.js, Vue.js, Next.js, Node.js, express, Vite, Knex.js
-* ⌨️ Java, Python, HTML, CSS, SASS, JavaScript, TypeScript, MySQL, MongoDB, Oracle SQL
-
 **Personal Stuff**
 
 * 🎧 Music lover and a keen listener
@@ -25,7 +20,11 @@
 * 📫 My Email: michellech2539@gmail.com
 * 💼 My LinkedIn: <a target="_blank"  href="https://www.linkedin.com/in/michellech2539/">michellech2539</a>
 
-** **
+**Skills and Experience**
+
+* 💻 React.js, Vue.js, Next.js, Node.js, express, Vite, Knex.js
+* ⌨️ Java, Python, HTML, CSS, SASS, JavaScript, TypeScript, MySQL, MongoDB, Oracle SQL
+
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
